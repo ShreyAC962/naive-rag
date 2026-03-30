@@ -13,4 +13,5 @@ def retrieve(query : str, k : int = 3):
         query_embeddings=[query_embedding],
         n_results=k
     )
+    # Chroma returns results as a nested list because it supports batch queries. Since I pass a single query, I extract the first element using [0] to get the relevant document chunks.
     return results["documents"][0]
