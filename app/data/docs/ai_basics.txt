@@ -1,0 +1,18 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn.
+
+There are three main types of AI:
+1. Narrow AI – designed for specific tasks (e.g., chatbots, recommendation systems)
+2. General AI – human-level intelligence (still theoretical)
+3. Super AI – beyond human intelligence (future concept)
+
+Machine Learning is a subset of AI that allows systems to learn from data without explicit programming.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+
+Key applications of AI include:
+- Natural Language Processing (NLP)
+- Computer Vision
+- Robotics
+- Recommendation systems
+
+Popular AI frameworks include TensorFlow, PyTorch, and Scikit-learn.

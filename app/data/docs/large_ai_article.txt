@@ -1,0 +1,22 @@
+Artificial Intelligence has rapidly evolved over the past decade...
+
+[IMPORTANT: copy this paragraph 20–30 times to simulate large data]
+
+AI is transforming industries such as healthcare, finance, education, and transportation.
+
+In healthcare, AI is used for diagnostics and predictive analytics.
+In finance, it powers fraud detection and algorithmic trading.
+In education, AI enables personalized learning experiences.
+In transportation, it is used in autonomous vehicles.
+
+Challenges in AI include:
+- Data privacy concerns
+- Bias in algorithms
+- High computational costs
+- Lack of explainability
+
+Future trends:
+- Generative AI
+- Autonomous agents
+- AI + IoT integration
+- Edge AI

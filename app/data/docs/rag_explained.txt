@@ -1,0 +1,24 @@
+Retrieval-Augmented Generation (RAG) is a technique that enhances language models by providing external knowledge.
+
+Instead of relying only on pre-trained knowledge, RAG retrieves relevant documents and uses them as context.
+
+The RAG pipeline consists of:
+1. Document ingestion
+2. Text chunking
+3. Embedding generation
+4. Vector storage
+5. Query embedding
+6. Similarity search
+7. Context injection into LLM
+
+Advantages of RAG:
+- Reduces hallucinations
+- Enables up-to-date knowledge
+- Works with private data
+
+Limitations of Naive RAG:
+- Cannot reason across multiple documents effectively
+- Retrieval quality heavily affects output
+- No ranking or filtering of results
+
+Advanced RAG improves this using reranking, query rewriting, and multi-step reasoning.

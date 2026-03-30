@@ -1,0 +1,20 @@
+Python is a high-level programming language known for its simplicity and readability.
+
+Key features:
+- Dynamically typed
+- Interpreted language
+- Large ecosystem of libraries
+
+Common use cases:
+- Web development (Django, Flask)
+- Data Science (Pandas, NumPy)
+- Machine Learning (Scikit-learn, TensorFlow)
+- Automation and scripting
+
+Important concepts:
+- Lists, tuples, dictionaries
+- Functions and classes
+- Exception handling
+- File handling
+
+Python is widely used in backend development and AI systems.

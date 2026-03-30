@@ -1,0 +1,17 @@
+A database is an organized collection of data that can be easily accessed, managed, and updated.
+
+Types of databases:
+1. Relational databases (SQL)
+   - Examples: PostgreSQL, MySQL
+2. NoSQL databases
+   - Examples: MongoDB, Cassandra
+3. Vector databases
+   - Examples: Chroma, Pinecone
+
+Vector databases are used in AI applications to store embeddings.
+
+Embeddings are numerical representations of text that capture semantic meaning.
+
+Similarity search is performed using distance metrics such as cosine similarity.
+
+Databases play a crucial role in scalable backend systems.
