@@ -8,4 +8,4 @@ def get_embeddings(text : str):
         "model" : EMBED_MODEL,
         "prompt" : text
     })
-    return response.json()["embeddings"]
+    return response.json()["embedding"]

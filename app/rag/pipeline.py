@@ -9,6 +9,6 @@ def rag_pipeline(query : str):
     answer = generate_answer(query, context)
     return {
         "query" : query,
-        "context" : docs,
+        "context" : context,
         "answer" : answer
     }
